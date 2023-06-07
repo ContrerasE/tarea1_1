@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+/*imagen*/
+
+.img-1 {
+    background-image: url("imagenes/imagen1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250;
+    width: 250;
+    color: #fff;
+}
